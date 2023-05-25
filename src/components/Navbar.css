@@ -1,0 +1,24 @@
+
+
+* {
+  margin: 0;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  background-color: aquamarine;
+  padding: 1rem;
+  font-size: 36px;
+}
+
+.main-div1 {
+  color: rgb(18, 15, 15);
+  text-decoration: none;
+  font-family: "Lobster", cursive;
+}
+
+.main-div1:hover {
+  color: purple;
+}
